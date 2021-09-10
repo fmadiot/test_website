@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Hell worl
+Hell world
 - x
 - y
 - z
